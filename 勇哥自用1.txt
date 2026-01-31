@@ -1,0 +1,60 @@
+{
+    "urls": [
+        {
+            "name": "勇哥分享丨天微影线",
+            "url": "https://7337.kstore.vip/tw.json"
+        },
+       
+        {
+            "name": "🔰勇哥分享丨七星影仓",
+            "url": "https://7337.kstore.space/qxys/%E7%A6%81%E6%AD%A2%E4%BC%A0%E6%92%AD.json"
+        },
+        {
+            "name": "勇哥分享丨麒麟影视",
+            "url": "https://9877.kstore.space/AnotherDS/movie.json"
+        },
+        {
+            "name": "🧶勇哥分享丨拾光",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
+        },
+       
+        {
+            "name": "🐂勇哥分享丨青龙",
+            "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json"
+        },
+        {  
+            "name": "🐂勇哥分享丨肥猫",
+            "url": "http://hello.肥猫.com"
+        },
+    
+        {
+            "name": "💦勇哥分享丨巧技巧技",
+            "url": "http://pandown.pro/tvbox/tvbox.json"
+        },
+        {
+            "name": "💦勇哥分享丨ok猫",
+            "url": "http://ok321.top/ok"
+        },
+        {
+            "name": "💦勇哥分享丨分享者",
+            "url": "https://raw.githubusercontent.com/maoystv/6/main/000.json"
+        },
+    
+        {
+            "name": "💦勇哥分享丨看看屋",
+            "url": "http://kkw88.top/kkwtv/api.json"
+        },
+        {
+            "name": "🔞69（暂停使用）",
+            "url": "https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/shiba.json"
+        },
+        {
+            "name": "99json",
+            "url": "https://d.kstore.dev/download/6078/%E5%BD%B1%E8%A7%86%E4%BB%93%E7%A6%8F%E5%88%A9%E6%8E%A5%E5%8F%A32.json"
+        },
+        {
+            "name": "南国",
+            "url": "https://mpimg.cn/down.php/593d01f1ea597c4cace30f6d8e5684ed.txt"
+        }
+     ]
+}
