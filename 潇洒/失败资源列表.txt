@@ -1,0 +1,4 @@
+http://127.0.0.1:9978/file/TVBox/bili_cookie.txt
+https://file.zhangyichi.dev/uploads/695cb6347d0b1_1767683636.js
+https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/anime/json/bsdm.json
+https://9877.kstore.space/AnotherD/js/drpy2.min.js
