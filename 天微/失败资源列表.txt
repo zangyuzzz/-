@@ -1,0 +1,6 @@
+https://7337.kstore.vip/js/虎牙直播.js
+https://7337.kstore.vip/js/芒果视频.js
+https://7337.kstore.vip/js/爱奇艺.js
+http://127.0.0.1:9978/file/TVBox/bili_cookie.txt
+http://127.0.0.1:9978/file/tvbox/bili_cookie.txt
+http://64.112.42.49:6688/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
