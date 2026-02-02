@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "公众号《科技天微》仅自用测试,禁传播贩卖",
+      "name": "恭喜发财",
       "type": 3,
       "jar": "./lib/kjtw3.txt",
       "api": "csp_Douban",
